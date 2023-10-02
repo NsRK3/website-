@@ -1,0 +1,13 @@
+body{
+    background-image: url(back.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: 'Roboto', sans-serif;
+}
+.about{
+    text-align: center;
+    font-size: larger;
+    color:aliceblue;
+}
+
